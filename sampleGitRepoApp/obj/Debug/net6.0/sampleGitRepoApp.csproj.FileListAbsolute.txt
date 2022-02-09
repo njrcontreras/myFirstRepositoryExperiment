@@ -1,0 +1,15 @@
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\sampleGitRepoApp.exe
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\sampleGitRepoApp.deps.json
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\sampleGitRepoApp.runtimeconfig.json
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\sampleGitRepoApp.dll
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\ref\sampleGitRepoApp.dll
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\bin\Debug\net6.0\sampleGitRepoApp.pdb
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.csproj.AssemblyReference.cache
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.AssemblyInfoInputs.cache
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.AssemblyInfo.cs
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.dll
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\ref\sampleGitRepoApp.dll
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.pdb
+C:\Users\Noel\Documents\OJT Files\Dev Files\sampleGitRepoApp\sampleGitRepoApp\obj\Debug\net6.0\sampleGitRepoApp.genruntimeconfig.cache
