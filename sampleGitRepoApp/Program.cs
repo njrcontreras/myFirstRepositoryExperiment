@@ -12,6 +12,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World again again again");
             Console.WriteLine("Hello World this is my second commit");
             Console.WriteLine("Hello World this is my third commit");
+            Console.WriteLine("My first attempt to use git push command");
         }
     }
 

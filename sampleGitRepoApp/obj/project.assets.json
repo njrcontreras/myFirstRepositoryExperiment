@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\sampleGitRepoApp\\sampleGitRepoApp\\sampleGitRepoApp.csproj",
+      "projectUniqueName": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\myClones\\myFirstRepositoryExperiment\\sampleGitRepoApp\\sampleGitRepoApp.csproj",
       "projectName": "sampleGitRepoApp",
-      "projectPath": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\sampleGitRepoApp\\sampleGitRepoApp\\sampleGitRepoApp.csproj",
+      "projectPath": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\myClones\\myFirstRepositoryExperiment\\sampleGitRepoApp\\sampleGitRepoApp.csproj",
       "packagesPath": "C:\\Users\\Noel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\sampleGitRepoApp\\sampleGitRepoApp\\obj\\",
+      "outputPath": "C:\\Users\\Noel\\Documents\\OJT Files\\Dev Files\\myClones\\myFirstRepositoryExperiment\\sampleGitRepoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS Components and Tool and SDKs\\NuGetPackages",
